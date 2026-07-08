@@ -1,0 +1,9 @@
+Week 7 Tutorial
+
+Name:Mohammed Deya
+Student ID:202505010510
+
+Bug Fixed:
+Added calculate_total() function.
+Validated price and quantity.
+Created pytest test cases.
